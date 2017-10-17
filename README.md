@@ -1,5 +1,8 @@
 # Rx-Kotlin-MVVM-DI
-Design pattern: Kotlin
+
+Programming with: Kotlin
+
+Design pattern: MVVM
 
 API call: Retrofit + Rx Observable
 
