@@ -1,4 +1,6 @@
 # Rx-Kotlin-MVVM-DI
-Design pattern: Kotlin 
+Design pattern: Kotlin
+
 API call: Retrofit + Rx Observable
+
 Module injection by Dagger
